@@ -4,7 +4,7 @@
 In deze proefopdracht heb ik in unity met C# een dungeon generator gemaakt
 
 ## Software Anaylse
-Ik heb c# gekozen voor dit project omdat dit een taal is waar ik redelijk bekend mee ben, en hier goed mee kan werken. Een grote factor waarom ik voor deze taal gekozen heb is omdat ik later met unity wil werken.
+Ik heb unity c# gekozen voor dit project omdat dit een taal is waar ik redelijk bekend mee ben, en hier goed mee kan werken. Een grote factor waarom ik voor deze taal gekozen heb is omdat ik later met unity wil werken.
 
 ## Leerdoelen
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
@@ -17,7 +17,7 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | onderzoek doen naar een Dungeon generator |  beginnen aan roomspawn script|werken aan roomspawn script | beginnen aan deurcheck script||
-|week 2 |werken aan deurcheck | errors fixen | errors fixen  | errors fixen ||readme maken
+|week 2 |werken aan deurcheck | errors fixen | errors fixen  | errors fixen | errors fixen|readme maken
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
